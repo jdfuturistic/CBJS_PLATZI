@@ -1,25 +1,13 @@
-// Valores primitivos
-
-// valor tipo número
 40
 
-// valor tipo String
-"Diego de Granda"
+"Esto es un texto"
 
-// valores tipo booleanos
-true
-false
+true //Verdadero
+false //Falso
 
-// valores vacíos o de error
 null
 undefined
 
-
-
-//Valores no primitivos o de tipo objeto
-
-// Objeto tipo Array
 [1,2,3]
 
-// valor tipo objeto
-{nombre: "Diego"}
+{ nombre: "Joseph" }
